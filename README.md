@@ -10,7 +10,8 @@ I'm a passionate **Software Engineer** and **Technology Educator**, exploring th
 
 ## 👨‍💻 About Me
 - 🔭 **Current Projects**:  
-  - **Cintasii Education -[[frontend](https://github.com/chiishie/cintasii-frontend-main)][[backend](https://github.com/chiishie/cintasii-backend-main)]**: A tutor management web app built with Django, React, and PostgreSQL.  
+  - **Cintasii Education -[[frontend](https://github.com/chiishie/cintasii-frontend-main)][[backend](https://github.com/chiishie/cintasii-backend-main)]**: A tutor management web app built with FastAPI, React, and PostgreSQL.
+  - **Fitness Management Web App - [[link]](https://github.com/chiishie/Fitness-Management-web-app)**: A health tracking app built with Java, Spring Boot, and USDA API.
   - **Interactive Python Course**: A self-paced e-learning module with hands-on coding exercises and dynamic tutorials.  
 
 - 🎓 **Education**:  
@@ -38,6 +39,7 @@ I'm a passionate **Software Engineer** and **Technology Educator**, exploring th
 
 ### **Frameworks and Libraries**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
@@ -52,7 +54,7 @@ I'm a passionate **Software Engineer** and **Technology Educator**, exploring th
 ## 🚀 Featured Projects
 
 - **Cintasii Education**  
-  A tutor management platform for handling sessions, payments, and user access using **Django**, **React**, and **PostgreSQL**.  
+  A tutor management platform for handling sessions, payments, and user access using **FastAPI**, **React**, and **PostgreSQL**.  
 
 - **Interactive Python Course**  
   A comprehensive self-paced course with video tutorials and live coding environments to teach Python fundamentals.
