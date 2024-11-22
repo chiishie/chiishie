@@ -65,7 +65,7 @@ I'm a passionate **Software Engineer** and **Technology Educator**, exploring th
   A health tracking app with **Java**, **Spring Boot**, and **USDA API**, offering nutrition and fitness analytics.
 
 - **[DC Shadow Senator Campaign Website](https://www.jainfordc.com/priorities)**
-- Build Website for Elected DC Shadow Senator Ankit Jain using **React**, **JavaScript** and **Python** (for microservices)
+  Build Website for Elected DC Shadow Senator Ankit Jain using **React**, **JavaScript** and **Python** (for microservices)
 
 ---
 
