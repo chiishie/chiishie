@@ -12,9 +12,7 @@ I'm a passionate **Software Engineer** and **Technology Educator**, exploring th
 - 🔭 **Current Projects**:  
   - **Cintasii Education -[[frontend](https://github.com/chiishie/cintasii-frontend-main)][[backend](https://github.com/chiishie/cintasii-backend-main)]**: A tutor management web app built with FastAPI, React, and PostgreSQL.
   - **Fitness Management Web App - [[link]](https://github.com/chiishie/Fitness-Management-web-app)**: A health tracking app built with Java, Spring Boot, and USDA API.
-  - **Developer Portfolio Website Template - [[link]](https://github.com/chiishie/dev-portfolio-template)**: Developer Portfolio Template build with Next.js
-  - **Interactive Python Course**: A self-paced e-learning module with hands-on coding exercises and dynamic tutorials.
-  
+  - **Developer Portfolio Website Template - [[link]](https://github.com/chiishie/dev-portfolio-template)**: Developer Portfolio Website Template built with Next.js
 
 - 🎓 **Education**:  
   - Master's in Computer Science (Human-Computer Interaction) at Georgia Tech (In Progress).  
@@ -64,8 +62,8 @@ I'm a passionate **Software Engineer** and **Technology Educator**, exploring th
 - **Fitness Management Application**  
   A health tracking app with **Java**, **Spring Boot**, and **USDA API**, offering nutrition and fitness analytics.
 
-- **[DC Shadow Senator Campaign Website](https://www.jainfordc.com/priorities)**
-  Build Website for Elected DC Shadow Senator Ankit Jain using **React**, **JavaScript** and **Python** (for microservices)
+- **Developer Portfolio Website Template**  
+  Interactive Developer Portfolio Website Template built with **Next.js** to showcase skills across several domains
 
 ---
 
